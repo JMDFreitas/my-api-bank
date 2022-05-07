@@ -1,29 +1,11 @@
 {
-    "nextId": 5,
+    "nextId": 2,
     "accounts": [
         {
             "id": 1,
-            "nome": "Jonathan Maycon",
-            "cpf": "45264784225",
-            "balance": 900
-        },
-        {
-            "id": 2,
-            "nome": "Johnny Michel",
-            "cpf": "45268584225",
-            "balance": 5200
-        },
-        {
-            "id": 3,
-            "nome": "Misael Favacho",
-            "cpf": "45268444225",
-            "balance": 2500
-        },
-        {
-            "id": 4,
-            "nome": "Nandreza Batista",
+            "name": "Johnny Michel Dias",
             "cpf": "45264632225",
-            "balance": 12000
+            "balance": 8000
         }
     ]
 }

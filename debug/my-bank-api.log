@@ -1,0 +1,52 @@
+2022-05-05T09:04:06.197Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T09:05:57.253Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T09:06:06.080Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T09:07:33.854Z [my-bank-api] info: POST /account - {"id":5,"name":"johnny Freitas","balance":5200,"cpf":"00366642275"}
+2022-05-05T09:08:49.008Z [my-bank-api] info: GET /account
+2022-05-05T09:40:29.695Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T09:40:35.095Z [my-bank-api] info: GET /account
+2022-05-05T09:41:01.119Z [my-bank-api] error: POST /account - Name, Balance e cpf são obrigatorios!
+2022-05-05T09:41:17.922Z [my-bank-api] info: GET /account/:id5
+2022-05-05T09:41:27.452Z [my-bank-api] info: GET /account/:id10
+2022-05-05T09:42:08.163Z [my-bank-api] info: PUT /account {"id":1,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T09:42:20.646Z [my-bank-api] info: PATCH /account/updateBalance {"id":1,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":5000}
+2022-05-05T09:42:28.375Z [my-bank-api] info: GET /account
+2022-05-05T09:42:50.032Z [my-bank-api] error: POST /account - Name, Balance e cpf são obrigatorios!
+2022-05-05T09:44:39.884Z [my-bank-api] info: POST /account - {"id":6,"name":"jonathan Maycon","balance":10000,"cpf":"12352564698"}
+2022-05-05T09:45:15.546Z [my-bank-api] error: PATCH /account - Cannot set properties of undefined (setting 'balance')
+2022-05-05T09:47:44.814Z [my-bank-api] info: GET /account
+2022-05-05T09:47:53.277Z [my-bank-api] info: DELETE /account/:id2
+2022-05-05T09:47:58.865Z [my-bank-api] info: GET /account
+2022-05-05T09:53:43.177Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T09:58:50.439Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:06:13.708Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:06:16.495Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:06:55.307Z [my-bank-api] error: POST /account - readFile is not defined
+2022-05-05T10:08:03.481Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:08:05.629Z [my-bank-api] info: POST /account - {"id":7,"name":"jonathan Maycon","balance":10000,"cpf":"12352564698"}
+2022-05-05T10:08:09.939Z [my-bank-api] info: POST /account - {"id":8,"name":"jonathan Maycon","balance":10000,"cpf":"12352564698"}
+2022-05-05T10:42:54.470Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:42:56.070Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:43:01.878Z [my-bank-api] info: GET /account
+2022-05-05T10:43:05.798Z [my-bank-api] info: GET /account
+2022-05-05T10:43:06.889Z [my-bank-api] info: GET /account
+2022-05-05T10:45:39.149Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:45:41.937Z [my-bank-api] info: GET /account
+2022-05-05T10:45:59.944Z [my-bank-api] info: DELETE /account/:id3
+2022-05-05T10:46:11.119Z [my-bank-api] info: GET /account
+2022-05-05T10:49:25.921Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:56:27.383Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:56:40.011Z [my-bank-api] error: GET /account - AccountService.getAccountService is not a function
+2022-05-05T10:57:06.908Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:57:09.981Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-05T10:58:32.410Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:58:35.598Z [my-bank-api] info: GET /account/:id1
+2022-05-05T10:59:05.622Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T10:59:07.823Z [my-bank-api] info: GET /account/:id1
+2022-05-05T10:59:18.919Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-05T11:02:39.740Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:03:07.349Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:03:11.013Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-05T11:03:15.001Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-05T11:03:52.790Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:03:55.290Z [my-bank-api] info: GET /account/:id1

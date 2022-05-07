@@ -1,0 +1,198 @@
+2022-05-05T11:10:03.170Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:10:18.304Z [my-bank-api] error: DELETE /account - AccountService.deleteAccountSerivce is not a function
+2022-05-05T11:10:59.393Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:11:02.488Z [my-bank-api] error: DELETE /account - AccountService.deleteAccountSerivce is not a function
+2022-05-05T11:11:03.862Z [my-bank-api] error: DELETE /account - AccountService.deleteAccountSerivce is not a function
+2022-05-05T11:11:04.538Z [my-bank-api] error: DELETE /account - AccountService.deleteAccountSerivce is not a function
+2022-05-05T11:11:04.746Z [my-bank-api] error: DELETE /account - AccountService.deleteAccountSerivce is not a function
+2022-05-05T11:11:26.907Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:11:31.296Z [my-bank-api] info: DELETE /account/:id1
+2022-05-05T11:12:48.197Z [my-bank-api] info: DELETE /account/:id1
+2022-05-05T11:12:59.214Z [my-bank-api] info: DELETE /account/:id1
+2022-05-05T11:14:01.648Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:14:03.028Z [my-bank-api] info: DELETE /account/:id1
+2022-05-05T11:15:25.179Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:17:03.910Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:17:12.423Z [my-bank-api] error: DELETE /account - O ID informando não existe
+2022-05-05T11:17:18.988Z [my-bank-api] error: DELETE /account - O ID informando não existe
+2022-05-05T11:17:22.052Z [my-bank-api] error: DELETE /account - O ID informando não existe
+2022-05-05T11:18:03.040Z [my-bank-api] error: DELETE /account - O ID informando não existe
+2022-05-05T11:19:31.589Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:19:34.024Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:19:46.127Z [my-bank-api] info: DELETE /account/:id5
+2022-05-05T11:19:52.288Z [my-bank-api] info: DELETE /account/:id5
+2022-05-05T11:19:58.569Z [my-bank-api] info: DELETE /account/:id5
+2022-05-05T11:20:37.141Z [my-bank-api] info: DELETE /account/:id10
+2022-05-05T11:23:47.575Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T11:24:12.399Z [my-bank-api] info: GET /account
+2022-05-05T11:24:19.734Z [my-bank-api] info: DELETE /account/:id6
+2022-05-05T11:24:25.395Z [my-bank-api] info: GET /account
+2022-05-05T22:51:42.316Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T22:51:44.832Z [my-bank-api] info: GET /account
+2022-05-05T22:51:57.127Z [my-bank-api] info: GET /account/:id7
+2022-05-05T22:52:01.783Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-05T22:52:36.421Z [my-bank-api] info: POST /account - {"id":9,"name":"Marinete Mae","balance":10000,"cpf":"12352511698"}
+2022-05-05T22:52:42.115Z [my-bank-api] info: GET /account
+2022-05-05T22:53:10.261Z [my-bank-api] info: DELETE /account/:id8
+2022-05-05T22:53:17.308Z [my-bank-api] info: GET /account
+2022-05-05T22:53:41.239Z [my-bank-api] info: POST /account - {"id":10,"name":"Misael Pai","balance":10000,"cpf":"12352511698"}
+2022-05-05T22:53:51.567Z [my-bank-api] info: POST /account - {"id":11,"name":"Nandreza amor","balance":10000,"cpf":"12352511698"}
+2022-05-05T22:54:16.855Z [my-bank-api] info: POST /account - {"id":12,"name":"Batman Cor","balance":10000,"cpf":"12352511698"}
+2022-05-05T22:54:23.485Z [my-bank-api] info: GET /account
+2022-05-05T22:54:41.694Z [my-bank-api] info: DELETE /account/:id9
+2022-05-05T23:01:11.408Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:02:20.036Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:02:55.106Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:03:35.070Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:03:51.186Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:03:54.315Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:04:54.802Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:05:26.890Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:05:29.469Z [my-bank-api] info: PUT /account {"id":1,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:05:44.286Z [my-bank-api] info: GET /account
+2022-05-05T23:05:50.893Z [my-bank-api] info: GET /account
+2022-05-05T23:06:59.023Z [my-bank-api] info: PUT /account {"id":7,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:07:10.195Z [my-bank-api] info: GET /account
+2022-05-05T23:07:44.641Z [my-bank-api] info: PUT /account {"id":10,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:07:49.522Z [my-bank-api] info: GET /account
+2022-05-05T23:13:11.522Z [my-bank-api] info: PUT /account {"id":9,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:13:23.113Z [my-bank-api] info: GET /account
+2022-05-05T23:13:38.485Z [my-bank-api] info: GET /account
+2022-05-05T23:13:57.727Z [my-bank-api] info: PUT /account {"id":12,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:14:01.889Z [my-bank-api] info: GET /account
+2022-05-05T23:14:22.080Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:14:39.757Z [my-bank-api] info: PUT /account {"id":11,"nome":"Nandreza Batista sadanie","cpf":"45264632225","balance":12000}
+2022-05-05T23:14:42.174Z [my-bank-api] info: GET /account
+2022-05-05T23:19:48.061Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:20:14.008Z [my-bank-api] info: PUT /account {"id":11,"nome":"Johnnie","cpf":"45264632225","balance":12000}
+2022-05-05T23:20:45.581Z [my-bank-api] info: GET /account
+2022-05-05T23:21:09.696Z [my-bank-api] info: PUT /account {"id":50,"nome":"Frediee","cpf":"45264632225","balance":12000}
+2022-05-05T23:21:48.158Z [my-bank-api] info: GET /account
+2022-05-05T23:21:52.642Z [my-bank-api] info: GET /account
+2022-05-05T23:33:25.909Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:34:14.258Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:34:52.134Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:35:07.596Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading 'id')
+2022-05-05T23:35:32.271Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading 'id')
+2022-05-05T23:35:34.262Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading 'id')
+2022-05-05T23:35:47.291Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading 'id')
+2022-05-05T23:37:41.999Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:37:44.767Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading 'id')
+2022-05-05T23:42:56.859Z [my-bank-api] info: GET /account
+2022-05-05T23:52:23.858Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:57:35.769Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:57:46.829Z [my-bank-api] error: PUT /account - Id, Name, Balance São Obrigatorios
+2022-05-05T23:57:59.245Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2022-05-05T23:58:11.223Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:59:13.054Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-05T23:59:51.367Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-05T23:59:53.867Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:00:07.713Z [my-bank-api] info: GET /account
+2022-05-06T00:00:47.619Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:00:53.075Z [my-bank-api] info: GET /account
+2022-05-06T00:01:01.904Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2022-05-06T00:02:21.505Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:02:38.375Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:04:44.027Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:04:49.653Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:04:55.211Z [my-bank-api] error: PATCH /account - balanceUpdated is not defined
+2022-05-06T00:05:13.503Z [my-bank-api] info: GET /account
+2022-05-06T00:06:34.164Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:06:36.373Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:07:00.978Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:07:06.429Z [my-bank-api] info: GET /account
+2022-05-06T00:08:10.028Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:08:23.252Z [my-bank-api] info: GET /account
+2022-05-06T00:08:49.479Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:08:52.917Z [my-bank-api] info: GET /account
+2022-05-06T00:09:32.232Z [my-bank-api] info: DELETE /account/:id - 10
+2022-05-06T00:09:46.466Z [my-bank-api] info: POST /account - {"id":13,"name":"Json x","balance":10000,"cpf":"12352511698"}
+2022-05-06T00:09:50.570Z [my-bank-api] info: GET /account
+2022-05-06T00:11:59.214Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:12:50.832Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:13:18.500Z [my-bank-api] info: POST /account - {"id":14,"name":"Blade","cpf":"12352511698","balance":100015480}
+2022-05-06T00:13:22.995Z [my-bank-api] info: GET /account
+2022-05-06T00:13:46.456Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:13:59.432Z [my-bank-api] info: GET /account
+2022-05-06T00:14:16.225Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:14:30.074Z [my-bank-api] error: PUT /account - accountUpdated is not defined
+2022-05-06T00:14:40.032Z [my-bank-api] info: DELETE /account/:id - 13
+2022-05-06T00:14:43.228Z [my-bank-api] info: GET /account
+2022-05-06T00:18:45.702Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T00:19:58.687Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:20:37.762Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:21:12.572Z [my-bank-api] info: GET /account
+2022-05-06T09:21:23.961Z [my-bank-api] info: GET /account/:id 7
+2022-05-06T09:21:28.809Z [my-bank-api] error: GET /account - O ID informando não existe
+2022-05-06T09:21:45.492Z [my-bank-api] info: POST /account - {"id":15,"name":"Blade","cpf":"12352511698","balance":100015480}
+2022-05-06T09:22:05.175Z [my-bank-api] info: GET /account
+2022-05-06T09:22:08.653Z [my-bank-api] info: GET /account
+2022-05-06T09:22:29.117Z [my-bank-api] info: POST /account - {"id":16,"name":"Blade","cpf":"12352511698","balance":100015480}
+2022-05-06T09:22:33.818Z [my-bank-api] info: GET /account
+2022-05-06T09:22:43.027Z [my-bank-api] info: DELETE /account/:id - 16
+2022-05-06T09:22:48.031Z [my-bank-api] info: GET /account
+2022-05-06T09:23:13.399Z [my-bank-api] error: PUT /account - data is not defined
+2022-05-06T09:24:24.415Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:24:28.073Z [my-bank-api] info: PUT /account {"id":15,"name":"Superman","cpf":"45264632225","balance":55545888441155}
+2022-05-06T09:24:31.365Z [my-bank-api] info: PUT /account {"id":15,"name":"Superman","cpf":"45264632225","balance":55545888441155}
+2022-05-06T09:24:34.686Z [my-bank-api] info: GET /account
+2022-05-06T09:26:51.355Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:27:30.970Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:27:42.393Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:27:57.123Z [my-bank-api] error: PATCH /account - Balance obrigatório
+2022-05-06T09:28:05.892Z [my-bank-api] error: PATCH /account - Balance obrigatório
+2022-05-06T09:28:56.069Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:29:00.602Z [my-bank-api] error: PATCH /account - Registro não encontrado.
+2022-05-06T09:29:08.845Z [my-bank-api] info: GET /account
+2022-05-06T09:29:22.498Z [my-bank-api] info: PATCH /account/updateBalance {"id":7,"balance":60000}
+2022-05-06T09:29:27.415Z [my-bank-api] info: GET /account
+2022-05-06T09:32:07.440Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:32:26.716Z [my-bank-api] info: PATCH /account/updateBalance {"id":11,"balance":500}
+2022-05-06T09:32:32.427Z [my-bank-api] info: GET /account
+2022-05-06T09:48:40.170Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:58:04.326Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:58:16.172Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:58:18.675Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T09:58:43.039Z [my-bank-api] info: PATCH /account/updateBalance {"id":12,"balance":500}
+2022-05-06T09:58:48.965Z [my-bank-api] info: GET /account
+2022-05-06T10:02:33.818Z [my-bank-api] info: PATCH /account/updateBalance {"id":14,"balance":500}
+2022-05-06T10:03:30.884Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T10:03:39.470Z [my-bank-api] info: GET /account
+2022-05-06T10:03:50.875Z [my-bank-api] info: PATCH /account/updateBalance {"id":15,"balance":500}
+2022-05-06T10:03:55.702Z [my-bank-api] info: GET /account
+2022-05-06T10:05:00.487Z [my-bank-api] info: POST /account - {"id":17,"name":"safes","cpf":"12352511698","balance":100015480}
+2022-05-06T10:05:05.988Z [my-bank-api] info: GET /account
+2022-05-06T10:19:38.664Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T10:19:57.076Z [my-bank-api] info: GET /account
+2022-05-06T10:20:11.129Z [my-bank-api] info: PATCH /account/updateBalance {"id":17,"balance":500}
+2022-05-06T10:20:33.845Z [my-bank-api] info: GET /account
+2022-05-06T10:22:27.754Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T10:22:43.560Z [my-bank-api] info: POST /account - {"id":18,"name":"Johnny Michel","cpf":"12352511698","balance":100015480}
+2022-05-06T10:22:48.110Z [my-bank-api] info: GET /account
+2022-05-06T10:23:01.077Z [my-bank-api] info: PATCH /account/updateBalance {"id":18,"balance":500}
+2022-05-06T10:23:01.079Z [my-bank-api] info: PATCH /account/updateBalance {"id":18,"name":"Johnny Michel","cpf":"12352511698","balance":100015480}
+2022-05-06T10:23:01.079Z [my-bank-api] info: PATCH /account/updateBalance {"id":18,"balance":500}
+2022-05-06T10:23:01.084Z [my-bank-api] info: PATCH /account/updateBalance {"id":18,"balance":500}
+2022-05-06T10:23:11.593Z [my-bank-api] info: GET /account
+2022-05-06T10:25:23.584Z [my-bank-api] info: MY-API-BANK STARTED
+2022-05-06T10:26:15.772Z [my-bank-api] info: MY-API-BANK STARTED AND FILE CREATED
+2022-05-06T10:26:29.492Z [my-bank-api] info: GET /account
+2022-05-06T10:26:36.510Z [my-bank-api] error: GET /account - Registro não encontrado!
+2022-05-06T10:26:46.728Z [my-bank-api] error: PUT /account - Registro não encontrado.
+2022-05-06T10:26:51.613Z [my-bank-api] error: PATCH /account - Registro não encontrado!
+2022-05-06T10:27:11.250Z [my-bank-api] info: POST /account - {"id":1,"name":"Johnny Michel","cpf":"12352511698","balance":3000}
+2022-05-06T10:27:16.093Z [my-bank-api] info: GET /account
+2022-05-06T10:27:26.638Z [my-bank-api] info: GET /account/:id 1
+2022-05-06T10:28:03.496Z [my-bank-api] info: PUT /account {"id":1,"name":"Johnny Michel Dias","cpf":"45264632225","balance":30052}
+2022-05-06T10:28:09.558Z [my-bank-api] info: GET /account
+2022-05-06T10:28:14.121Z [my-bank-api] info: GET /account/:id 1
+2022-05-06T10:28:38.669Z [my-bank-api] info: PATCH /account/updateBalance {"id":1,"balance":8000}
+2022-05-06T10:28:47.075Z [my-bank-api] info: GET /account/:id 1
+2022-05-06T10:29:29.020Z [my-bank-api] info: POST /account - {"id":2,"name":"Nandreza Saddanie Correa Batista","cpf":"98765432185","balance":3000}
+2022-05-06T10:29:33.394Z [my-bank-api] info: GET /account
+2022-05-06T10:29:41.859Z [my-bank-api] error: GET /account - Registro não encontrado!
+2022-05-06T10:29:54.280Z [my-bank-api] info: GET /account/:id 2
+2022-05-06T10:29:58.887Z [my-bank-api] error: GET /account - Registro não encontrado!
+2022-05-06T10:30:08.714Z [my-bank-api] info: DELETE /account/:id - 2
+2022-05-06T10:30:15.392Z [my-bank-api] info: GET /account
+2022-05-06T11:39:11.730Z [my-bank-api] info: GET /account
